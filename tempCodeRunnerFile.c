@@ -1,3 +1,4 @@
- // temp = father;
-                // father = node;
-                // node = temp;
+// temp = father;
+// father = node;
+// node = temp;
+//independent swap function.
